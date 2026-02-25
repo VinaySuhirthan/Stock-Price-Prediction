@@ -104,7 +104,8 @@ plt.show()
 
 
 ### Predictions
-<img width="1083" height="741" alt="image" src="https://github.com/user-attachments/assets/af4ae5cf-2d02-4586-8397-5965d95cf5bd" />
+<img width="967" height="587" alt="image" src="https://github.com/user-attachments/assets/c3b5b88a-d8d5-4b82-92b3-9894198da9ae" />
+
 
 
 ---
